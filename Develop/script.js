@@ -3,7 +3,7 @@
 var alphaLower = "abcdefghijklmnopqrstuvwxyz";
 var alphaUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var num = '01234567890';
-var special = '~!@#$%^&*()_+{}[]|\:";<>?,./';
+var special = '~!@#$%^&*()_+-={}[]|\:";<>?,./';
 var minLength = 8;
 var maxLength = 128;
 
